@@ -11,13 +11,11 @@ Languages: react, node.js
 ## Installation
 1. Clone Repository: 
    ```sh
-   git clone https://github.com/udvale/Expense-Tracker.git
-3. ```sh
-   cd Expense-Tracker/web
-4. Install dependencies:
+   git clone https://github.com/udvale/Expense-Manager.git
+2. Install dependencies:
     ```sh
     npm install
-6. Start Development Environment
+3. Start Development Environment
    ```sh
    npm run db:studio
    npm run dev

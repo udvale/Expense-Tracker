@@ -8,6 +8,7 @@ function CardInfo({budgetList}) {
   useEffect(() => {
     budgetList && CalculateCardInfo();
   }, [budgetList]);
+  //calculating card info
   const CalculateCardInfo = () => {
     console.log(budgetList);
     let totalBudget_ = 0;

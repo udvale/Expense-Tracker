@@ -8,7 +8,7 @@ function Header() {
   const {user, isSignedIn} = useUser();
   return (
     <div className=" bg-customBg p-5 flex justify-between items-center  shadow-lg">
-      <Image src={"./logo1.svg"} alt={"logo"} width={45} height={50} />
+      <Image src={"./budget2.svg"} alt={"logo"} width={55} height={50} />
       {isSignedIn ? (
         <>
           <div className="flex items-center space-x-10 ml-auto">

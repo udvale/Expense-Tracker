@@ -11,14 +11,14 @@ function Footer() {
           Feel free to reach out to me on any platform.
         </p>
         <div className="mt-2 flex space-x-6 justify-center mb-4">
-          <a
+          {/* <a
             href="https://linkedin.com/in/udvale"
             target="_blank"
             rel="noopener noreferrer"
             className="text-silverCrest hover:text-silverCrestDark text-2xl"
           >
             <FaLinkedinIn />
-          </a>
+          </a> */}
           <a
             href="https://github.com/udvale"
             target="_blank"
@@ -34,9 +34,7 @@ function Footer() {
             <FaEnvelope />
           </a>
         </div>
-        {/* <p className="text-gray-400 mt-4">
-            Feel free to reach out to me on any platform.
-          </p> */}
+        <p className="text-gray-400 mt-4 text-xs">All Rights Reserved ©</p>
       </div>
     </footer>
   );

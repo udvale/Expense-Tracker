@@ -1,6 +1,6 @@
 "use client";
-import React, {useEffect} from "react";
-import Image from "next/image";
+import React, {useState} from "react";
+// import Image from "next/image";
 import Link from "next/link";
 import {LayoutGrid, Wallet, Coins, Home} from "lucide-react";
 import {UserButton} from "@clerk/nextjs";
@@ -34,6 +34,7 @@ function SideNav() {
     },
   ];
   const path = usePathname();
+
   return (
     <div className="h-screen p-3 shadow-md bg-customBg text-silverCrest">
       <div className="fixed  p-5 flex gap-2 items-center">

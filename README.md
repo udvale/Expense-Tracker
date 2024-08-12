@@ -1,6 +1,6 @@
 # Expense Tracker
-A basic full stack expense tracker Next.js application using Docker, Clerk and PostgreSQL. 
-Languages: react, node.js
+A basic full-stack expense tracker application built with Next.js, Clerk, and PostgreSQL. <br>
+Languages: React, Tailwind CSS 
 
 
 ## Features

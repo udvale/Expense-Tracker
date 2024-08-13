@@ -11,7 +11,7 @@ Languages: React, Tailwind CSS
 ## Installation
 1. Clone Repository: 
    ```sh
-   git clone https://github.com/udvale/Expense-Manager.git
+   git clone https://github.com/udvale/Expense-Tracker.git
 2. Install dependencies:
     ```sh
     npm install

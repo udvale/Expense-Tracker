@@ -2,6 +2,8 @@
 A basic full-stack expense tracker application built with Next.js, Clerk, and PostgreSQL. <br>
 Languages: React, Tailwind CSS 
 
+Website: https://budget-bee-manager.vercel.app/ 
+
 
 ## Features
 - User authentication with Clerk
